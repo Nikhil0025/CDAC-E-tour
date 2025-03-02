@@ -1,0 +1,32 @@
+2025-02-28 15:55:11.425 +05:30 [INF] User profile is available. Using 'C:\Users\SAIRAJ\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-02-28 15:55:11.735 +05:30 [INF] Now listening on: http://localhost:5000
+2025-02-28 15:55:11.742 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-28 15:55:11.746 +05:30 [INF] Hosting environment: Production
+2025-02-28 15:55:11.748 +05:30 [INF] Content root path: F:\project\E-Tour\.Net\Backend\E-Tour\bin\Debug\net8.0
+2025-02-28 16:02:06.235 +05:30 [INF] User profile is available. Using 'C:\Users\SAIRAJ\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-02-28 16:02:06.533 +05:30 [INF] Now listening on: http://localhost:5000
+2025-02-28 16:02:06.543 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-28 16:02:06.546 +05:30 [INF] Hosting environment: Production
+2025-02-28 16:02:06.548 +05:30 [INF] Content root path: F:\project\E-Tour\.Net\Backend\E-Tour\bin\Debug\net8.0
+2025-02-28 16:03:38.520 +05:30 [INF] User profile is available. Using 'C:\Users\SAIRAJ\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-02-28 16:03:38.711 +05:30 [INF] Now listening on: http://localhost:5000
+2025-02-28 16:03:38.719 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-28 16:03:38.723 +05:30 [INF] Hosting environment: Production
+2025-02-28 16:03:38.725 +05:30 [INF] Content root path: F:\project\E-Tour\.Net\Backend\E-Tour\bin\Debug\net8.0
+2025-02-28 16:57:33.484 +05:30 [INF] User profile is available. Using 'C:\Users\SAIRAJ\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-02-28 16:57:33.740 +05:30 [INF] Now listening on: http://localhost:5000
+2025-02-28 16:57:33.748 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-28 16:57:33.751 +05:30 [INF] Hosting environment: Production
+2025-02-28 16:57:33.753 +05:30 [INF] Content root path: F:\project\E-Tour\.Net\Backend\E-Tour\bin\Debug\net8.0
+2025-02-28 17:01:02.030 +05:30 [INF] Application is shutting down...
+2025-02-28 17:01:19.420 +05:30 [INF] User profile is available. Using 'C:\Users\SAIRAJ\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-02-28 17:01:19.672 +05:30 [INF] Now listening on: http://localhost:5000
+2025-02-28 17:01:19.679 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-28 17:01:19.683 +05:30 [INF] Hosting environment: Production
+2025-02-28 17:01:19.685 +05:30 [INF] Content root path: F:\project\E-Tour\.Net\Backend\E-Tour\bin\Debug\net8.0
+2025-02-28 17:02:03.720 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5000/ - null null
+2025-02-28 17:02:03.851 +05:30 [WRN] Failed to determine the https port for redirect.
+2025-02-28 17:02:03.893 +05:30 [WRN] Failed to determine the https port for redirect.
+2025-02-28 17:02:03.937 +05:30 [INF] HTTP GET / responded 404 in 87.2626 ms
+2025-02-28 17:02:03.960 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5000/ - 404 0 null 241.2617ms
+2025-02-28 17:02:03.986 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5000/, Response status code: 404
