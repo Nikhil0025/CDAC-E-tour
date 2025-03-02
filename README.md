@@ -1,5 +1,5 @@
-# CDAC-E-tour
-<h1>E-TOUR 🌍</h1>
+# CDAC-E-tour 🌍
+
 
 <h2>PLATFORM</h2>
 🖥 JAKARTA EE, .NET CORE, REACT JS, MySQL
